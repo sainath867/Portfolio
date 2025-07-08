@@ -11,10 +11,10 @@ I'm a Full Stack Developer with over 7 years of experience building scalable, hi
 - **Frontend Technologies**: React.js, Angular, HTML5, CSS3, JavaScript, TypeScript
 - **Backend & Frameworks**: Spring Boot, Spring MVC, Hibernate, RESTful Web Services
 - **API & Integration Tools**: REST APIs, Postman, JMeter (API Testing - basic), JWT, OAuth2
-• **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda), Google Cloud Platform, Microsoft Azure
-• **DevOps & CI/CD Tools**: Jenkins, Docker, Kubernetes (basic), Git, GitHub, GitHub Actions, Maven, Gradle
-• **Testing & Automation Tools**: JUnit, Mockito, Selenium WebDriver (basic), TestNG, Karate
-• **Data Analytics & Reporting Tools**: Excel, Power BI, Tableau, Google Data Studio
+- **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda), Google Cloud Platform, Microsoft Azure
+- **DevOps & CI/CD Tools**: Jenkins, Docker, Kubernetes (basic), Git, GitHub, GitHub Actions, Maven, Gradle
+- **Testing & Automation Tools**: JUnit, Mockito, Selenium WebDriver (basic), TestNG, Karate
+- **Data Analytics & Reporting Tools**: Excel, Power BI, Tableau, Google Data Studio
 
 
 ## Work Experience
