@@ -6,7 +6,7 @@ I'm a Full Stack Developer with over 7 years of experience building scalable, hi
 
 ### Technical Skills
 
-• **Databases**: MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, DynamoDB
+- **Databases**: MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, DynamoDB
 • **Languages & Query Tool**s: Java, JavaScript (ES6+), TypeScript, SQL, Python (basic scripting)
 • **Frontend Technologies**: React.js, Angular, HTML5, CSS3, JavaScript, TypeScript
 • **Backend & Frameworks**: Spring Boot, Spring MVC, Hibernate, RESTful Web Services
