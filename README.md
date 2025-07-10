@@ -70,4 +70,7 @@ Masters in Information Systems, Central Michigan University
   
 ## Connect me
 
+- [LinkedIn](https://www.linkedin.com/in/sainath-vuppala-10025b232/)
+- [Medium](https://medium.com/@vuppalasainath1)
+- [Email](mailto:vuppalasainath867@gmail.com)
 
