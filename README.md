@@ -27,13 +27,12 @@ Detroit, MI | Oct 2024 – Present
 - ⁠Automated deployments using Jenkins and Docker, achieving bi-weekly production releases with zero rollbacks and high system reliability.
 - ⁠Led code reviews and mentored junior developers while contributing to unit/integration testing, API documentation, and Agile team processes.
 
-**Prime Healthcare - Senior Level Java Developer**
-Ontario, CA | Sept 2023 – Sep 2024
+**One Magnify - Senior Level Java Developer**
+Detroit, MI | Sept 2023 – Sep 2024
 
-- Designed and built scalable microservices with Java 11 and Spring Boot for healthcare platforms, enabling secure patient history tracking and real-time clinical decisions.
-- Integrated Azure Functions, Event Grid, and JWT-based auth to drive secure, event-driven architectures with minimal overhead.
-- Collaborated with data science teams to embed predictive analytics into physician dashboards using REST APIs and FHIR-compliant EHR integrations.
-- Led backend performance tuning and CI/CD automation with Azure DevOps, achieving 35% faster APIs and streamlined multi-environment deployments.
+- Designed and implemented scalable REST APIs using Java Spring Boot and Hibernate to process multi-channel customer feedback data from Salesforce, CRMs, and NLP engines.
+- Built a role-based React.js + TypeScript frontend dashboard to visualize sentiment trends, NPS scores, and complaint categories for actionable insights.
+- Developed microservices and CI/CD pipelines (GitHub Actions, Docker, Terraform) for real-time feedback analysis, issue routing, and cloud-native deployments on AWS and Azure.
 
 **Accenture – Java Developer**
 Hyderabad, India | Oct 2021 – Aug 2023
@@ -51,7 +50,7 @@ Hyderabad, India | June 2019 – July 2021
 - Secured APIs with OAuth2 and collaborated with cross-functional teams to align service flows with dynamic provider portal requirements.
 
 **Trainity – Software Engineer Intern**
-Hyderabad, India | Nov 2018 – June 2019
+Hyderabad, India | June 2018 – May 2019
 
 - Contributed to building and integrating Java Spring Boot web services for user onboarding, approvals, and automated asset assignment.
 - Assisted in deploying backend components via Azure App Service and configuring Azure SQL for employee and asset data management.
